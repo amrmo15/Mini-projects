@@ -20,4 +20,3 @@ another point , source code is readable with clear logic , maintainable , clean 
 finally , if you want to add new features or do some adjustments your which is our command ^-^
 
 program designed by : Amr Mohamed
-Contributors        : 
